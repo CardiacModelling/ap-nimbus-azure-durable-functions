@@ -1,1 +1,3 @@
-# Testing Azure Durable Functions.
+# Discontinued/Archived activity
+
+## Testing Azure Durable Functions.
